@@ -194,7 +194,11 @@ Run these tests to ensure the robustness and reliability of the Social Network A
    [back to visual examples list](#visual-examples)
 #### Video
    #### Example Usage
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/0U5rN_r6nMA?si=WOsgEmh_SZa7j_QD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+  - Alternate video source if the above link does not work:
    [![Video Demonstration](./public/assets/demo%20video%20thumbnail.png)](./public/assets/Social%20Network%20API%20Demo.mp4)
+   
    [back to visual examples list](#visual-examples)
 
 
