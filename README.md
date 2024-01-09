@@ -194,7 +194,8 @@ Run these tests to ensure the robustness and reliability of the Social Network A
    [back to visual examples list](#visual-examples)
 #### Video
    #### Example Usage
-   [![Video Demonstration](./public/assets/demo%20video%20thumbnail.png)](./public/assets/Social%20Network%20API%20Demo.mp4)
+   [![Video Demonstration](./public/assets/demo%20video%20thumbnail.png)](./public/assets/Social%20Network%20API%20Demo.mp4) 
+   
    [back to visual examples list](#visual-examples)
 
 
