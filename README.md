@@ -145,6 +145,8 @@ Run these tests to ensure the robustness and reliability of the Social Network A
   - [GET single thought](#get-single-thought)
   - [CREATE reaction](#create-reaction)
   - [DELETE reaction](#delete-reaction)
+- **Video Demo**
+  - [Example Usage](#example-usage)
 
 #### User
    #### create user
@@ -190,7 +192,10 @@ Run these tests to ensure the robustness and reliability of the Social Network A
    #### delete reaction
    ![delete reaction](public/assets/deleteReaction.png)
    [back to visual examples list](#visual-examples)
-
+#### Video
+   #### Example Usage
+   [![Video Demonstration](./public/assets/demo%20video%20thumbnail.png)(./public/assets/Social%20Network%20API%20Demo.mp4)]
+   [back to visual examples list](#visual-examples)
 
 
 ## Questions
